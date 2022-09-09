@@ -1,0 +1,16 @@
+{
+  "name": "chatsapp",
+  "version": "1.0.0",
+  "description": "Real time chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Yash Kanekar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
