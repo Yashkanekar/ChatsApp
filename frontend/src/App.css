@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-color: #2a4365;
+}
