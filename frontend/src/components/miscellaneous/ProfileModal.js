@@ -33,7 +33,7 @@ const ProfileModal = ({ user, children }) => {
         <ModalContent h="410px">
           <ModalHeader
             fontSize="40px"
-            fontFamily="Work sans"
+            fontFamily="Roboto"
             display="flex"
             justifyContent="center"
           >
