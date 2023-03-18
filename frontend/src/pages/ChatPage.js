@@ -21,7 +21,7 @@ const ChatPage = () => {
         h="91.5vh"
         p="10px"
       >
-        {user && <MyChats />}
+        {user && <MyChats fetchAgain={fetchAgain} />}
         {user && <ChatBox />}
       </Box>
     </div>
